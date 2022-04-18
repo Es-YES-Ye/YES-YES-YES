@@ -1,13 +1,14 @@
 
 
 
-###  HEllO👋 I'm 
+###  HEllO👋 I'm younsun
 
 
 ### 🛠 Tools
 
   ### 💽 Databases
-  ![MongoDB](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mongoDB&logoColor=white)
+  Oracle SQL
+  MongoDB
  
   ### 📚 Frameworks, Platforms and Libraries
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -21,11 +22,13 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  Node.js
 
 
   ### 🖥 IDEs/Editors
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  VScode
 
 
 
