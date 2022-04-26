@@ -1,7 +1,7 @@
 
 
 
-###  HEllO👋 I'm younsun
+###  Hello👋 I'm younsun
 
 
 ### 🛠 Tools
